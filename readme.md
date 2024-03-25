@@ -43,4 +43,3 @@ Una vez lo tenemos, podemos interactuar con él y obtener la información que no
 *Premium:*
 
 7. Cambia el fondo de todos los `infocard-lg-data text-muted` para todos los Pokimon voladores `itype flying`
-# bichomono
